@@ -51,6 +51,6 @@ v1.0 — Initial project sent.
 
 🧑‍💻 Author
 
-Created by Raí
+Created by Rai (or Ray)
 
 “Just a programmer walking the path of code.”
