@@ -1,0 +1,10 @@
+# Compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Output folders
+/bin/
+out/
